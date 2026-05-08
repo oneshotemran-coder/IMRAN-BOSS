@@ -16,12 +16,12 @@ guide: "{pn}"
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  * 🔐 [ FILE CREATOR INFORMATION-SIZUKA BOT ]
- * 👤 OWNER    : FARHAN KHAN
- * 🆔 UID      : 61573366160918
- * 🔗 FACEBOOK : https://www.facebook.com/MR.FARHAN.420
- * 📞 WHATSAPP : +880 1934640061
- * 📍 LOCATION : CHUADANGA,BANGLADESH
- * 🛠️ PROJECT  : FARHAN BOT PROJECT (2026)
+ * 👤 OWNER    : 𝗙𝗔𝗛𝗜𝗠 𝗔𝗛𝗠𝗘𝗗
+ * 🆔 UID      : 61589092769391
+ * 🔗 FACEBOOK : https://www.facebook.com/fahim.ahmed.raj.077
+ * 📞 WHATSAPP : +880 1771240377
+ * 📍 LOCATION : 𝗗𝗛𝗔𝗞𝗔,𝗠𝗜𝗥𝗣𝗨𝗥
+ * 🛠️ PROJECT  : 𝗙𝗔𝗛𝗜𝗠 𝗕𝗢𝗧 PROJECT (2026)
  * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 onStart: async function ({ api, event }) {
