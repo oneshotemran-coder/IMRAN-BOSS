@@ -11,7 +11,7 @@
 
 <!-- 🔥 BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/𝐈%20𝐀𝐌%20𝐅𝐀𝐑𝐇𝐀𝐍-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𝐈%20𝐍𝐎𝐎𝐁%20𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-ff0000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/𝐈%20𝐀𝐌%20𝗙𝗔𝗛𝗜𝗠-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𝐈%20𝐍𝐎𝐎𝐁%20𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <!-- 🔥 WELCOME -->
@@ -25,7 +25,7 @@
 
 <!-- 🔥 TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=𝐈+𝐀𝐌+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐁𝐎𝐘;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝐅𝐀𝐑𝐇𝐀𝐍+𝐈𝐒+𝐓𝐇𝐄+𝐁𝐑𝐀𝐍𝐃;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=𝐈+𝐀𝐌+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐁𝐎𝐘;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝗙𝗔𝗛𝗜𝗠+𝐈𝐒+𝐓𝐇𝐄+𝐁𝐑𝐀𝐍𝐃;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒">
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FARHAN-MIRAI-BOT&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ffff&icon_color=ff00ff&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=𝗙𝗔𝗛𝗜𝗠-MIRAI-BOT&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ffff&icon_color=ff00ff&text_color=ffffff">
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🔥 𝐒𝐓𝐑𝐄𝐀𝐊 𝐒𝐓𝐀𝐓𝐒
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FARHAN-MIRAI-BOT&theme=dark&background=000000&ring=ff0000&fire=ff9900&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff">
+  <img src="https://streak-stats.demolab.com?user=𝗙𝗔𝗛𝗜𝗠-MIRAI-BOT&theme=dark&background=000000&ring=ff0000&fire=ff9900&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff">
 </p>
 
 ---
