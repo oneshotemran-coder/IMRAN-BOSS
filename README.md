@@ -96,20 +96,20 @@ ______________________________________
 
 ## 🌐 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐄
 
-<a href="https://github.com/FARHAN-MIRAI-BOT">
+<a href="https://github.com/FAHIM-7HEVEN">
 <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 </a>
 
-<a href="https://www.facebook.com/MR.MUNNA.220">
+<a href="https://www.facebook.com/fahim.ahmed.raj.077">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 </a>
 
-<a href="https://www.instagram.com/MUNNA_VAI.MBS">
+<a href="https://www.instagram.com/fahim_077">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
 </a>
 
 ---
 
-<h2 align="center">𝐅𝐀𝐑𝐇𝐀𝐍 𝐈𝐒 𝐍𝐎𝐓 𝐀 𓆩𝐍𝐀𝐌𝐄𓆪 
+<h2 align="center">𝐅𝐀𝐇𝐈𝐌 𝐈𝐒 𝐍𝐎𝐓 𝐀 𓆩𝐍𝐀𝐌𝐄𓆪 
 
    😈 𝐈𝐓'𝐒 𝐀 𝐁𝐑𝐀𝐍𝐃 😈</h2>
