@@ -35,7 +35,7 @@ module.exports = {
 
 		// ✅ Owners (যারা add/remove করতে পারবে)
 		const OWNER = [
-			"61589092769391",
+			"61589439339903",
 			""
 		];
 
