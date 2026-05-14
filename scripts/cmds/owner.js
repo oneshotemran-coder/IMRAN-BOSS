@@ -62,10 +62,10 @@ module.exports = {
 ➤ https://wa.me/+8801771240377
 
 [🌍] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)
-➤ https://m.me/61589092769391
+➤ https://m.me/61589439339903
 
 [🌍] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)
-➤ https://www.facebook.com/fahim.ahmed.raj.077
+➤ https://www.facebook.com/fahim.ahmed.raj.207
 
 ╚═══❖𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨❖═══╝`;
 
