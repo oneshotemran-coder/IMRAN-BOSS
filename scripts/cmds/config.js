@@ -17,8 +17,8 @@ guide: "{pn}"
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  * 🔐 [ FILE CREATOR INFORMATION-SIZUKA BOT ]
  * 👤 OWNER    : 𝗙𝗔𝗛𝗜𝗠 𝗔𝗛𝗠𝗘𝗗
- * 🆔 UID      : 61589092769391
- * 🔗 FACEBOOK : https://www.facebook.com/fahim.ahmed.raj.077
+ * 🆔 UID      : 61589439339903
+ * 🔗 FACEBOOK : https://www.facebook.com/fahim.ahmed.raj.207
  * 📞 WHATSAPP : +880 1771240377
  * 📍 LOCATION : 𝗗𝗛𝗔𝗞𝗔,𝗠𝗜𝗥𝗣𝗨𝗥
  * 🛠️ PROJECT  : 𝗙𝗔𝗛𝗜𝗠 𝗕𝗢𝗧 PROJECT (2026)
