@@ -97,7 +97,7 @@ module.exports = {
 			case "remove":
 			case "-r": {
 				if (!isOwner)
-					return message.reply("❌ | Only my boss fahim can remove operator.");
+					return message.reply("❌ | Only my boss Imran can remove operator.");
 
 				let uids = [];
 
@@ -154,7 +154,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━━━━〔 𝙾𝚆𝙽𝙴𝚁 〕━━━━━━╮
-│ 𝙽𝙰𝙼𝙴 :  𝙼𝚁_𝙵𝙰𝙷𝙸𝙼
+│ 𝙽𝙰𝙼𝙴 :  IMRAN-BOSS
 │ 𝚄𝙸𝙳 : ${OWNER.join(", ")}
 ╰━━━━━━━━━━━━━━━━━━╯`;
 
