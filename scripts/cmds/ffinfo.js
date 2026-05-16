@@ -109,7 +109,7 @@ ${social.signature
           : "N/A"
       }
 
-✨ Powered by Fahim-Khan
+✨ Powered by Imran-Khan
 `;
 
       await api.editMessage(msg, wait.messageID);
