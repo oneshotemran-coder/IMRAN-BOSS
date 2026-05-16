@@ -81,14 +81,14 @@ ______________________________________
 ## 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
 ### 🔵 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
-<a href="https://www.facebook.com/fahim.ahmed.raj.207">
+<a https://www.facebook.com/profile.php?id=61587039296724">
 <img src="https://img.shields.io/badge/Facebook-ff0000?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 ---
 
 ### 🟢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
-<a href="https://wa.me/8801771240377">
+<a href="https://wa.me/8801921615668">
 <img src="https://img.shields.io/badge/WhatsApp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=black">
 </a>
 
@@ -100,7 +100,7 @@ ______________________________________
 <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 </a>
 
-<a href="https://www.facebook.com/fahim.ahmed.raj.207">
+<a https://www.facebook.com/profile.php?id=61587039296724">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 </a>
 
