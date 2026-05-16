@@ -2,7 +2,7 @@ module.exports.config = {
  name: "frules",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "FAHIM",
+ credits: "IMRAN",
  description: "Send group rules",
  commandCategory: "information",
  usages: "rules2",
@@ -29,10 +29,10 @@ module.exports.run = async ({ api, event }) => {
 ❖ কারও সমস্যা থাকলে সরাসরি 𝙰𝙳𝙼𝙸𝙽𝚂 দের ইনবক্স করুন 💌
 ❖ রুলস ভাঙলে আগে ওয়ার্নিং, পরে অ্যাকশন 😈
 
-𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽: FAHIM
-𝙵𝙱 𝙻𝙸𝙽𝙺: https://www.facebook.com/fahim.ahmed.raj.077
+𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽: IMRAN
+𝙵𝙱 𝙻𝙸𝙽𝙺: https://www.facebook.com/profile.php?id=61587039296724
 
-_সাথেই থাকুন 🌺─꯭─⃝‌‌𝐅𝐀𝐇𝐈𝐌 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🌸_
+_সাথেই থাকুন 🌺─꯭─⃝‌‌IMRAN 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🌸_
 
 💖...........ধন্যবাদ সবাইকে...........💖`;
 
